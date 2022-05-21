@@ -1,9 +1,7 @@
 # programing
 수행평가
 
-안녕?세상아 줄바꾸기 어떻게 하는 거야
-세상이 ㅈㄴ ㅈ같아
-코딩 ㅈㄴ 어렵네 
-github시발 어디에 뭐가 있는지 사용 설명서 봐도 모르겠어
-자살마렵다
-코딩한 거를 여기 올려줘야 하는 구나
+git init
+git add-A
+git commit-m"시발"
+git remote add origin 
